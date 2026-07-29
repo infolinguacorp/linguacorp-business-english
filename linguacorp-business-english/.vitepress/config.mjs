@@ -8,6 +8,7 @@ export default defineConfig({
   srcDir: 'src',
 
   themeConfig: {
+    logo: '/logo.png',
     siteTitle: false,
     nav: [
       { text: 'Inicio', link: '/' },
