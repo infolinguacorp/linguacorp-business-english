@@ -31,8 +31,8 @@ Al finalizar la sesión 1.4, encontrarás una autoevaluación interactiva. Neces
 Practica en voz alta. El speaking es tan importante como la gramática. Usa los ejercicios de grabación de cada sesión.
 :::
 
-<div style="text-align:center;margin-top:2rem;">
-  <a href="./sesion-1-1" style="display:inline-block;padding:12px 28px;background:#4F46E5;color:#fff;border-radius:8px;text-decoration:none;font-weight:600;">
+&lt;div style="text-align:center;margin-top:2rem;"&gt;
+  &lt;a href="./sesion-1-1" style="display:inline-block;padding:12px 28px;background:#4F46E5;color:#fff;border-radius:8px;text-decoration:none;font-weight:600;"&gt;
     🚀 Comenzar Sesión 1.1
-  </a>
-</div>
+  &lt;/a&gt;
+&lt;/div&gt;
